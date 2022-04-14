@@ -4,13 +4,13 @@
 
 <div style="display: flex; gap:1rem;">
 <a href="#">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/GusRot/MagentoJS">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/GusRot/Magento">
 </a>
 <a href="#">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GusRot/MagentoJS?color=%2304D361" target="blank">
 </a>
 <a href="#">
-<img alt="Wakatime" src="https://wakatime.com/badge/user/04f1420e-9d57-410a-bdc7-d768fb237a52/project/28507fc9-dc3e-4aad-ba20-2527cfec66ac.svg">
+<img alt="Wakatime" src="https://wakatime.com/badge/user/04f1420e-9d57-410a-bdc7-d768fb237a52/project/f916ef17-ed89-431d-9575-73f7956dac83.svg">
 </a>
 <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt" target="blank">
 <img alt="LicenseMIT" src="https://badgen.net/github/license/micromatch/micromatch">
